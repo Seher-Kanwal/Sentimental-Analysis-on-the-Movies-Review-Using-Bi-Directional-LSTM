@@ -1,0 +1,1 @@
+# Sentimental-Analysis-on-the-Movies-Review-Using-Bi-Directional-LSTM
