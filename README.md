@@ -26,7 +26,6 @@ But with the simple lstm, this is not possible that's why we need to use bi-dire
 
 
 
-
 # Where to use:
 
 In the above diagram, we can see the flow of information from backward and forward layers. BI-LSTM is usually employed where the sequence to sequence tasks are needed.  This kind of network can be used in:
