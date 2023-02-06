@@ -1,4 +1,4 @@
-#### Sentimental-Analysis-on-the-Movies-Review-Using-Bi-Directional-LSTM
+## Sentimental-Analysis-on-the-Movies-Review-Using-Bi-Directional-LSTM
 
 
 
